@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='MN Player 2.0'
